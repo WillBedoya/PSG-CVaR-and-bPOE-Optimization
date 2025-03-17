@@ -1,0 +1,7 @@
+maximize
+  avg_g(matrix_prior_scenarios)
+Constraint: <= 0.10
+  bPOE(0.05339, matrix_prior_scenarios)
+Constraint: == 1
+  linear(matrix_budget)
+Box: >= 0
