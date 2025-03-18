@@ -1,4 +1,4 @@
-# PSG-CVaR-and-bPOE-Optimization
+# PSG CVaR and bPOE Optimization
 These PSG files are a series of optimization problems that allow for comparisons between CVaR and bPOE (buffered probability of exceedance) constraints. It is also a study of infeasibilty in optimization problems.
 
 ## P1 Files
